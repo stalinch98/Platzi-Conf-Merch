@@ -16,7 +16,7 @@ function Header() {
             </h1>
             <div className="Header-checkout">
                 <Link to="/checkout">
-                    <i class="fas fa-shopping-cart"></i>
+                    <i className="fas fa-shopping-cart"></i>
                 </Link>
                 {
                     cart.length > 0 &&

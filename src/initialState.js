@@ -1,6 +1,7 @@
 export default {
     cart: [],
     buyer: [],
+    orders: [],
     products: [{
             'id': '1',
             'image': 'https://arepa.s3.amazonaws.com/camiseta.png',
